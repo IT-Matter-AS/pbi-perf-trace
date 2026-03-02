@@ -1,7 +1,0 @@
-pandas>=2.1
-
-[dev]
-build>=1.2
-pytest>=8
-ruff>=0.5
-twine>=5
