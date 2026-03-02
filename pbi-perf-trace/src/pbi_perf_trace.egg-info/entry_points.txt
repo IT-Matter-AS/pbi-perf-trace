@@ -1,0 +1,2 @@
+[console_scripts]
+pbi-perf-trace = pbi_perf_trace.cli:main
